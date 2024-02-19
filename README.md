@@ -37,13 +37,15 @@ To execute the project:
 1. Ensure Python and required libraries are installed.
    ```pip install BeautifulSoup4 requests pandas numpy sqlite3 ```
 2. Download the CSV file
+
    **a- on Linux-like systems** 
       ``` wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/exchange_rate.csv ```
+
    **b- on Windows**
     ``` Invoke-WebRequest -Uri "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/exchange_rate.csv" -OutFile               "exchange_rate.csv" ```
-3. Run the Python script containing the functions.
+4. Run the Python script containing the functions.
    ``` python .\etl_largest_banks.py ```
-4. Monitor the progress and status messages in the log file `etl_project_log.txt`.
+5. Monitor the progress and status messages in the log file `etl_project_log.txt`.
 
 ## Files and Dependencies
 
