@@ -33,6 +33,6 @@ To execute the project:
 - **Input Data**: The project uses a webpage URL (`URL`), a CSV file containing exchange rates (`csv_to_read`), and specifies output paths for CSV files (`csv_path`) and SQLite database (`db_name`, `table_name`).
 
 ## Credits
-This project was a part of Coursera IBM Data Engineering Certification : [[Link Text](https://www.coursera.org/learn/python-project-for-data-engineering/)https://www.coursera.org/learn/python-project-for-data-engineering/](URL){: style="color: red;"}
+This project was a part of Coursera IBM Data Engineering Certification : [https://www.coursera.org/learn/python-project-for-data-engineering/]
 
 
